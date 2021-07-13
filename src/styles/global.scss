@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f8f8f8;
+  color: #29292e;
+
+  &.dark {
+    background: #333;
+  }
+
+}
+
+body, input, button, textarea {
+  font: 400 1rem 'Roboto', sans-serif;
+}
+
+/* media redimensionamento máximo */
+@media(max-width: 768px) {
+  html {
+    font-size: 93.75%;
+  }
+}
+
+@media(max-width: 414px) {
+  html {
+    font-size: 87.5%;
+  }
+}
