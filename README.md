@@ -84,7 +84,7 @@
   - [x] Print da aplicação
   - [ ] GIF 
 - [ ] Levando a aplicação para outro nível
-  - [ ] Responsividade
+  - [x] Responsividade
   - [x] Tema Dark
   - [x] Versão PWA
   - [ ] styled Components
