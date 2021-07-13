@@ -31,7 +31,7 @@
 
 
 
-![Letmeask_home](./public/assets/Letmeask_home.png)
+![Letmeask_home](./public/assets/letmeask_home.png)
 
 
 
@@ -86,7 +86,7 @@
 - [ ] Levando a aplicação para outro nível
   - [ ] Responsividade
   - [x] Tema Dark
-  - [ ] Versão PWA
+  - [x] Versão PWA
   - [ ] styled Components
   - [ ] ESLint e Prettier
 
@@ -188,11 +188,10 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file  for m
 ## 📧 Contato
 
 ``` html
-<a src="https://app.rocketseat.com.br/me/brunno-manduca-1567308643">
-  <img style="border-radius: 40%;" src="https://xesque.rocketseat.dev/users/avatar/profile-10add8f7-25e4-4c59-9f67-bd126969defb-1617893627164.jpg" width="100px">
-  <br/>
-  <sub><b>Brunno Manduca</b></sub>
-</a>
+<a href="https://app.rocketseat.com.br/me/brunno-manduca-1567308643">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/32902829?v=4" width="100px;" alt="Img"/>
+ <br />
+ <sub><b>Brunno Manduca</b></sub></a> <a href="https://app.rocketseat.com.br/me/brunno-manduca-1567308643" title="Rocketseat">🚀</a>
 ```
 
 [![Gmail Badge](https://img.shields.io/badge/-brunnomanducarfe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunnomanducarfe@gmail.com)](mailto:brunnomanducarfe@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunno-manduca-b97080118/)](https://www.linkedin.com/in/brunno-manduca-b97080118/) 
