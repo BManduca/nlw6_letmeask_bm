@@ -184,8 +184,26 @@ REACT_APP_APP_ID=
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file  for more details.
 
-
 ## 📧 Contato
+
+```html
+<p align="center">
+  <a href="" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunnomanducarfe@gmail.com"/>
+  </a>
+
+   <a href="https://instagram.com/brunnomanduca" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/brunnomanduca"/>   </a>
+
+  <a href="https://www.linkedin.com/in/brunno-manduca-b97080118/">
+    <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunno-manduca-b97080118/">
+  </a>
+
+  <a href="https://app.rocketseat.com.br/me/brunno-manduca-1567308643">
+    <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
+  </a>  
+</p>
+```
 
 [![Gmail Badge](https://img.shields.io/badge/-brunnomanducarfe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunnomanducarfe@gmail.com)](mailto:brunnomanducarfe@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunno-manduca-b97080118/)](https://www.linkedin.com/in/brunno-manduca-b97080118/) 
 
