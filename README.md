@@ -31,7 +31,7 @@
 
 
 
-![Letmeask_home](./public/assets/letmeask_home.png)
+![letmeask_home](./public/assets/Letmeask_home.png)
 
 
 
@@ -186,13 +186,6 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file  for m
 
 
 ## 📧 Contato
-
-``` html
-<a href="https://app.rocketseat.com.br/me/brunno-manduca-1567308643">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/32902829?v=4" width="100px;" alt="Img"/>
- <br />
- <sub><b>Brunno Manduca</b></sub></a> <a href="https://app.rocketseat.com.br/me/brunno-manduca-1567308643" title="Rocketseat">🚀</a>
-```
 
 [![Gmail Badge](https://img.shields.io/badge/-brunnomanducarfe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunnomanducarfe@gmail.com)](mailto:brunnomanducarfe@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunno-manduca-b97080118/)](https://www.linkedin.com/in/brunno-manduca-b97080118/) 
 
