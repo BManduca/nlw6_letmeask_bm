@@ -25,28 +25,61 @@
 ## 📲 Aplicação
 
 * Aplicação Letmeask foi totalmente desenvolvida durante a [Next Level Week #6](https://nextlevelweek.com/pre-nlw) aplicada pela [Rocketseat](https://rocketseat.com.br/sobre)
+
 * Letmeask foi desenvolvida com intuito de permitir a criação de salas de "Q&A in real time", ou seja, perguntas e respostas em tempo real.
+
 * Perfeita para utilização em aulas online, para quem faz criação de conteúdo, eventos e até mesmo streams ao vivo
-* Aplicação totalmente voltada quem procura performance e agilidade
 
+* Aplicação totalmente voltada para quem procura performance e agilidade
 
-
-![letmeask_home](./public/assets/Letmeask_home.png)
-
-
+  
 
 ## ❓Letmeask❗
 
 * Acessar a página da aplicação  =>  👾 [Letmeask](https://letmeask-8ff68.web.app)
+  
+
+* Home
+
+  ![letmeask_home](./public/assets/letmeask_home.png)
+
+  
+
+* Home com tema aplicado
+
+  ![letmeask_home_dark](./public/assets/letmeask_home_dark.png)
+
+  
+
+* 'Sala' criada para que possam fazer as perguntas
+
+  ![letmeask_question_room](./public/assets/letmeask_question_room.png)
+
+  
+  
+
+* 'Sala' criada para que possam fazer as perguntas com tema aplicado
+
+  ![letmeask_question_room_dark](./public/assets/letmeask_question_room_dark.png)
 
 
+
+* Home versão mobile
+
+  ![letmeask_home_mobile](./public/assets/letmeask_home_mobile.png)
+
+  
 
 ## 🖥 Tecnologias presentes na aplicação
 
 * ReactJS <img src="./public/assets/react-original.svg" alt="react-original" width="25px" />
+
 * Typescript  <img src="./public/assets/typescript-original.svg" alt="typescript-original" width="25px" />
+
 * Firebase  <img src="./public/assets/firebase-plain.svg" alt="firebase-plain" width="30px" />
+
 * Styled-components
+
 * React-hot-toast
 
    Para saber mais ou ter mais detalhes, só analisar o arquivo **[package.json](./package.json)**
