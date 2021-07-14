@@ -41,7 +41,7 @@
 
 * Home
 
-  ![letmeask_home](./public/assets/letmeask_home.png)
+  ![Letmeask_home](./public/assets/Letmeask_home.png)
 
   
 
